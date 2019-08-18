@@ -22,10 +22,10 @@ require(rtweet)
 require(twtools)
 
 twitter_tokens <- create_token(app = "EvoPsychPolitics",
-                               consumer_key = "EiBIaJ11vKe05Mzmu5CM3rIv5",
-                               consumer_secret = "1Qr5nl08nk0TRsN5mCev9NCr0FVaEwrWmmsa6q5KInOcoOActV",
-                               access_token = "1162231836937822208-MFJEiDuJ2K7IKqzpdkdxF1EfmQMDlV",
-                               access_secret = "EKWBIXxHh8ZjjksLa0jXBtN758pooGpGkEFPQrYqZZvWO")
+                               consumer_key = "AEiBIaJ11vKe05Mzmu5CM3rIv5xxxxxxx",
+                               consumer_secret = "A1Qr5nl08nk0TRsN5mCev9NCr0FVaEwrWmmsa6q5KInOcoOActVxxxxxxx",
+                               access_token = "A1162231836937822208-MFJEiDuJ2K7IKqzpdkdxF1EfmQMDlVxxxxxxxx",
+                               access_secret = "AEKWBIXxHh8ZjjksLa0jXBtN758pooGpGkEFPQrYqZZvWOxxxxxx")
 
                                #searching for evolutionary psychology tweets on twitter
 
